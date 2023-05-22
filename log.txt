@@ -1,0 +1,11 @@
+commit 5d75f7744c330c48088a30f6ca2e60e9c9a99423
+Author: karolina <karolinamadej@example.com>
+Date:   Mon May 22 12:11:51 2023 +0200
+
+    ignorowanie doc
+
+commit 78e8d66f4e5ca8659432361cffebb6d882e5fcc8
+Author: karolina <karolinamadej@example.com>
+Date:   Mon May 22 12:04:43 2023 +0200
+
+    ryba
